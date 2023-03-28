@@ -3,6 +3,7 @@
 
 int main()
 {
+    printf("PEC");
     int array[10];
     int i;
 
