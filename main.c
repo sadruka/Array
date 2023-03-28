@@ -4,6 +4,14 @@
 int main()
 {
     printf("PEC");
+    printf("PEC");
+    printf("PEC");
+    printf("PEC");
+    printf("PEC");
+    printf("PEC");
+    printf("PEC");
+    printf("PEC");
+    printf("PEC");
     int array[10];
     int i;
 
